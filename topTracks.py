@@ -5,8 +5,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from sqlalchemy import create_engine
 
 # Set your credentials
-client_id = 'e1579079c582472d998f11f720ae99e2'
-client_secret = '5eecc48f72ca4d8fa9baecafb0e3b662'
+client_id = os.getenv('SPOTIFY_ID')
+client_secret = os.getenv('SPOTIFY_SECRET')
 redirect_uri = 'http://127.0.0.1:8888/callback'
 
 # Set up Spotify OAuth
@@ -60,11 +60,11 @@ df.to_json("top_tracks.json", orient="records", indent=4)
 track_df.to_json("all_top_tracks.json", orient="records", indent=4)
 
 # Database connection parameters
-username = 'ifeoma'
-password = 'postgre12'
-host = 'localhost'
-port = '5432'
-database_name = 'spotifydata2'
+username = os.getenv('POSTGRES_NAME') 
+password = os.getenv('POSTGRES_PASSWORD')
+host = os.getenv('POSTGRES_PASSWORD') 
+port = os.getenv('POSTGRES_PORT')  
+database_name = os.getenv('POSTGRES_DB') 
 
 # Create a SQLAlchemy engine
 engine = create_engine(f'postgresql+psycopg2://{username}:{password}@{host}:{port}/{database_name}')
