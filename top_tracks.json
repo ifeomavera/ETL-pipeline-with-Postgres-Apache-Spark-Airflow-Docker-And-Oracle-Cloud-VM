@@ -4,7 +4,15 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":33,
+        "popularity":54,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5VKXfM7SWob2onq118RjYJ",
+        "track_name":"No Turning Back II",
+        "artist_name":"Gaise Baba",
+        "duration":299468,
+        "popularity":73,
         "link":null
     },
     {
@@ -12,7 +20,7 @@
         "track_name":"Creep - Live",
         "artist_name":"Kelly Clarkson",
         "duration":248546,
-        "popularity":53,
+        "popularity":54,
         "link":null
     },
     {
@@ -32,11 +40,35 @@
         "link":null
     },
     {
+        "id":"spotify:track:5GQPBzoRBDxcAjwSSluQXD",
+        "track_name":"Pretty Little Baby",
+        "artist_name":"Connie Francis",
+        "duration":142520,
+        "popularity":88,
+        "link":null
+    },
+    {
+        "id":"spotify:track:0vM4LQCV9TsBH8hvTWsow9",
+        "track_name":"Hallelujah (I Don't Think About You)",
+        "artist_name":"Kevin Olusola",
+        "duration":175240,
+        "popularity":60,
+        "link":null
+    },
+    {
         "id":"spotify:track:1FqwlZmZYv65rfF1HKqXFk",
         "track_name":"Many Moons",
         "artist_name":"Cade Kellam",
         "duration":264000,
-        "popularity":36,
+        "popularity":38,
+        "link":null
+    },
+    {
+        "id":"spotify:track:2KHUXdmkR1C0bus8w76k0N",
+        "track_name":"perfect union",
+        "artist_name":"Sinmidele",
+        "duration":210745,
+        "popularity":44,
         "link":null
     },
     {
@@ -44,7 +76,15 @@
         "track_name":"empty airport",
         "artist_name":"Strings And Heart",
         "duration":137845,
-        "popularity":56,
+        "popularity":55,
+        "link":null
+    },
+    {
+        "id":"spotify:track:6kkpKpSIxrWihMFpbTS3VU",
+        "track_name":"if i don't got you",
+        "artist_name":"Strings And Heart",
+        "duration":148016,
+        "popularity":52,
         "link":null
     },
     {
@@ -52,7 +92,7 @@
         "track_name":"honeydew (praise the Lord)",
         "artist_name":"Strings And Heart",
         "duration":224000,
-        "popularity":60,
+        "popularity":61,
         "link":null
     },
     {
@@ -60,7 +100,7 @@
         "track_name":"backseat drive",
         "artist_name":"Strings And Heart",
         "duration":174650,
-        "popularity":47,
+        "popularity":53,
         "link":null
     },
     {
@@ -68,7 +108,7 @@
         "track_name":"evergreen love",
         "artist_name":"Strings And Heart",
         "duration":177804,
-        "popularity":63,
+        "popularity":64,
         "link":null
     },
     {
@@ -76,7 +116,7 @@
         "track_name":"Isi Gini",
         "artist_name":"Bidemi Olaoba",
         "duration":269538,
-        "popularity":52,
+        "popularity":53,
         "link":null
     },
     {
@@ -100,15 +140,7 @@
         "track_name":"Jesus paid it all.",
         "artist_name":"Lofi Hymns.",
         "duration":186506,
-        "popularity":37,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2KHUXdmkR1C0bus8w76k0N",
-        "track_name":"perfect union",
-        "artist_name":"Sinmidele",
-        "duration":210745,
-        "popularity":46,
+        "popularity":38,
         "link":null
     },
     {
@@ -120,11 +152,11 @@
         "link":null
     },
     {
-        "id":"spotify:track:6kkpKpSIxrWihMFpbTS3VU",
-        "track_name":"if i don't got you",
-        "artist_name":"Strings And Heart",
-        "duration":148016,
-        "popularity":52,
+        "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
+        "track_name":"love you to death",
+        "artist_name":"Josiah Queen",
+        "duration":172258,
+        "popularity":66,
         "link":null
     },
     {
@@ -132,7 +164,7 @@
         "track_name":"The Anthem (Iwo Tani)",
         "artist_name":"Bidemi Olaoba",
         "duration":169900,
-        "popularity":44,
+        "popularity":43,
         "link":null
     },
     {
@@ -144,11 +176,35 @@
         "link":null
     },
     {
+        "id":"spotify:track:3uLuxijlvrmMLcSHoplmol",
+        "track_name":"NO L's",
+        "artist_name":"Forrest Frank",
+        "duration":147692,
+        "popularity":69,
+        "link":null
+    },
+    {
         "id":"spotify:track:5SLZcAJwJHWsLotZI4E1W4",
         "track_name":"Plant",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":137239,
-        "popularity":21,
+        "popularity":22,
+        "link":null
+    },
+    {
+        "id":"spotify:track:7JDfWHxOFo63yQmVs5wSPM",
+        "track_name":"YOUR WAY'S BETTER",
+        "artist_name":"Forrest Frank",
+        "duration":198082,
+        "popularity":79,
+        "link":null
+    },
+    {
+        "id":"spotify:track:7wfxf9QXBIWgBx1aG5QWhR",
+        "track_name":"ROOM FOR 2",
+        "artist_name":"Benson Boone",
+        "duration":151500,
+        "popularity":73,
         "link":null
     },
     {
@@ -160,6 +216,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:0HYiXMGbbjPlqtNECkoSmR",
+        "track_name":"Crazy",
+        "artist_name":"Kevin Olusola",
+        "duration":207426,
+        "popularity":42,
+        "link":null
+    },
+    {
         "id":"spotify:track:6dFqmkl3LQjUI8j3DuRc1M",
         "track_name":"Lmly",
         "artist_name":"Anendlessocean",
@@ -168,11 +232,27 @@
         "link":null
     },
     {
-        "id":"spotify:track:3uLuxijlvrmMLcSHoplmol",
-        "track_name":"NO L's",
-        "artist_name":"Forrest Frank",
-        "duration":147692,
-        "popularity":55,
+        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
+        "track_name":"Morning Devotion Worship",
+        "artist_name":"Grace Idowu",
+        "duration":424824,
+        "popularity":46,
+        "link":null
+    },
+    {
+        "id":"spotify:track:2Rpxbbx0rbA7leuAshGEH3",
+        "track_name":"Fine",
+        "artist_name":"Kyle Hume",
+        "duration":150005,
+        "popularity":67,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5KcTtk0iEBv5bIRsr0XhSz",
+        "track_name":"Almighty",
+        "artist_name":"Song House",
+        "duration":148211,
+        "popularity":32,
         "link":null
     },
     {
@@ -196,15 +276,23 @@
         "track_name":"Dry Bones",
         "artist_name":"Gabriel Eziashi",
         "duration":178512,
-        "popularity":43,
+        "popularity":44,
         "link":null
     },
     {
-        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
-        "track_name":"Morning Devotion Worship",
-        "artist_name":"Grace Idowu",
-        "duration":424824,
-        "popularity":45,
+        "id":"spotify:track:73G3CxFPd7DNPJxzCLxQZZ",
+        "track_name":"Haske (Live)",
+        "artist_name":"kaestrings",
+        "duration":450911,
+        "popularity":55,
+        "link":null
+    },
+    {
+        "id":"spotify:track:2TOEn8TnvwiQgwZdqVtfH5",
+        "track_name":"Momma Song",
+        "artist_name":"Benson Boone",
+        "duration":197160,
+        "popularity":81,
         "link":null
     },
     {
@@ -212,7 +300,23 @@
         "track_name":"Sunset",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":183355,
-        "popularity":33,
+        "popularity":31,
+        "link":null
+    },
+    {
+        "id":"spotify:track:6qLrRZYhtWKkanyYOJfl8B",
+        "track_name":"HOLY HUH?",
+        "artist_name":"DKG KIE",
+        "duration":164181,
+        "popularity":46,
+        "link":null
+    },
+    {
+        "id":"spotify:track:70phX1Md7Hertk651Q06Z2",
+        "track_name":"Calling (Bless Me)",
+        "artist_name":"Limoblaze",
+        "duration":180288,
+        "popularity":51,
         "link":null
     },
     {
@@ -220,7 +324,23 @@
         "track_name":"Merry & Bright",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":209914,
-        "popularity":18,
+        "popularity":17,
+        "link":null
+    },
+    {
+        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
+        "track_name":"In Christ Alone",
+        "artist_name":"Boyce Worship Collective",
+        "duration":280597,
+        "popularity":29,
+        "link":null
+    },
+    {
+        "id":"spotify:track:3fBZFKMe1KMafGZkjJVr7i",
+        "track_name":"sacred",
+        "artist_name":"Sinmidele",
+        "duration":229639,
+        "popularity":39,
         "link":null
     },
     {
@@ -240,43 +360,19 @@
         "link":null
     },
     {
-        "id":"spotify:track:7JDfWHxOFo63yQmVs5wSPM",
-        "track_name":"YOUR WAY'S BETTER",
-        "artist_name":"Forrest Frank",
-        "duration":198082,
-        "popularity":77,
-        "link":null
-    },
-    {
-        "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
-        "track_name":"love you to death",
-        "artist_name":"Josiah Queen",
-        "duration":172258,
-        "popularity":66,
-        "link":null
-    },
-    {
-        "id":"spotify:track:3fBZFKMe1KMafGZkjJVr7i",
-        "track_name":"sacred",
-        "artist_name":"Sinmidele",
-        "duration":229639,
-        "popularity":41,
-        "link":null
-    },
-    {
         "id":"spotify:track:7LcJx95sWXpqCMLxQJfhMM",
         "track_name":"Blessed",
         "artist_name":"Cade Kellam",
         "duration":242886,
-        "popularity":46,
+        "popularity":48,
         "link":null
     },
     {
-        "id":"spotify:track:7mdvPu1ZAOIgMzr3sfpAqk",
-        "track_name":"My Darling",
-        "artist_name":"Chella",
-        "duration":146086,
-        "popularity":80,
+        "id":"spotify:track:0AB5YzmICCzimyMfLWfrUA",
+        "track_name":"Who Am I",
+        "artist_name":"Jenna Raine",
+        "duration":159800,
+        "popularity":65,
         "link":null
     },
     {
@@ -284,119 +380,23 @@
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
         "duration":161544,
-        "popularity":53,
-        "link":null
-    },
-    {
-        "id":"spotify:track:7fF2rQnUkELUq0AzByzH9K",
-        "track_name":"Free My Mind",
-        "artist_name":"G.E.S",
-        "duration":194745,
-        "popularity":42,
-        "link":null
-    },
-    {
-        "id":"spotify:track:73G3CxFPd7DNPJxzCLxQZZ",
-        "track_name":"Haske (Live)",
-        "artist_name":"kaestrings",
-        "duration":450911,
-        "popularity":55,
-        "link":null
-    },
-    {
-        "id":"spotify:track:0aw4lGVn0ZfD6Q2AKWEd1o",
-        "track_name":"Lilies",
-        "artist_name":"Cade Kellam",
-        "duration":279375,
-        "popularity":44,
-        "link":null
-    },
-    {
-        "id":"spotify:track:1V9AYsVkGvDL0XrkYvUOGv",
-        "track_name":"Even Better",
-        "artist_name":"D\u00e2mares Gomes",
-        "duration":198688,
-        "popularity":39,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2alkWeDWQSytDexz9nhMZ1",
-        "track_name":"Psalm 46",
-        "artist_name":"Tekoa",
-        "duration":204600,
-        "popularity":45,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2N0wbZGLuD4MhlHYDGtPAg",
-        "track_name":"Stars",
-        "artist_name":"Cade Kellam",
-        "duration":174250,
-        "popularity":31,
-        "link":null
-    },
-    {
-        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
-        "track_name":"In Christ Alone",
-        "artist_name":"Boyce Worship Collective",
-        "duration":280597,
-        "popularity":30,
-        "link":null
-    },
-    {
-        "id":"spotify:track:04a2j62vStA6fwFMlR7Vq7",
-        "track_name":"What Can Wash Away?",
-        "artist_name":"sxxnt.",
-        "duration":142717,
-        "popularity":41,
-        "link":null
-    },
-    {
-        "id":"spotify:track:0FYUGkkaI0OpnHVeH44kjb",
-        "track_name":"For the Beauty of the Earth",
-        "artist_name":"Alabaster Co.",
-        "duration":332991,
-        "popularity":16,
-        "link":null
-    },
-    {
-        "id":"spotify:track:3Kuj8MAYGHTihXbVsVHr49",
-        "track_name":"Who Woulda Known",
-        "artist_name":"Asha Elia",
-        "duration":121000,
-        "popularity":22,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2MB2pKgf2fWBGKcewyUBUS",
-        "track_name":"Yesterday Is Dead",
-        "artist_name":"Josiah Queen",
-        "duration":165992,
         "popularity":70,
         "link":null
     },
     {
-        "id":"spotify:track:2SHWUh366VIpgpDHxxtnID",
-        "track_name":"Contemporary Praise Medley - Live",
-        "artist_name":"Gabriel Eziashi",
-        "duration":817850,
-        "popularity":34,
+        "id":"spotify:track:4KtT8dN9QaCPNwxtJwhKmB",
+        "track_name":"Tare (Live)",
+        "artist_name":"kaestrings",
+        "duration":477280,
+        "popularity":60,
         "link":null
     },
     {
-        "id":"spotify:track:5dfYyiSz7BfanN5MGflDBm",
-        "track_name":"Shepherds",
-        "artist_name":"Alabaster Co.",
-        "duration":155778,
-        "popularity":31,
-        "link":null
-    },
-    {
-        "id":"spotify:track:6tM4E2Je4omnd7FwHt6tyf",
-        "track_name":"Te Amo",
-        "artist_name":"121SELAH",
-        "duration":226666,
-        "popularity":46,
+        "id":"spotify:track:7mdvPu1ZAOIgMzr3sfpAqk",
+        "track_name":"My Darling",
+        "artist_name":"Chella",
+        "duration":146086,
+        "popularity":81,
         "link":null
     }
 ]

@@ -4,7 +4,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":53,
+        "FamousLevel":52,
         "Link":"https:\/\/open.spotify.com\/artist\/4T0c560DVGr1cAtE3reOP1"
     },
     {
@@ -13,14 +13,14 @@
             "gospel r&b",
             "christian alternative rock"
         ],
-        "FamousLevel":36,
+        "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
         "Artistname":"Claire Leslie",
         "Genre":[
-            "pop worship",
             "christian pop",
+            "pop worship",
             "christian"
         ],
         "FamousLevel":42,
@@ -49,11 +49,9 @@
     {
         "Artistname":"Kenneth Kelly",
         "Genre":[
-            "gospel r&b",
-            "pop worship",
-            "christian pop"
+            "gospel r&b"
         ],
-        "FamousLevel":27,
+        "FamousLevel":26,
         "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
     },
     {
@@ -63,7 +61,7 @@
             "african gospel",
             "gospel"
         ],
-        "FamousLevel":47,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/0xmUZqkqmJfezc0fzyfboj"
     },
     {
@@ -72,7 +70,6 @@
             "christian folk",
             "christian alternative rock",
             "christian pop",
-            "pop worship",
             "christian",
             "worship"
         ],
@@ -84,7 +81,6 @@
         "Genre":[
             "gospel r&b",
             "christian pop",
-            "pop worship",
             "christian"
         ],
         "FamousLevel":42,
@@ -142,10 +138,9 @@
         "Genre":[
             "christian pop",
             "worship",
-            "pop worship",
             "christian"
         ],
-        "FamousLevel":49,
+        "FamousLevel":48,
         "Link":"https:\/\/open.spotify.com\/artist\/7MCV4p3QmcYDMTfiE0ZWMD"
     },
     {
@@ -165,7 +160,7 @@
             "gospel",
             "gospel r&b"
         ],
-        "FamousLevel":54,
+        "FamousLevel":55,
         "Link":"https:\/\/open.spotify.com\/artist\/43bV8yQzojEPet60WrZJau"
     },
     {
@@ -173,7 +168,7 @@
         "Genre":[
             "Unknown Genre"
         ],
-        "FamousLevel":44,
+        "FamousLevel":43,
         "Link":"https:\/\/open.spotify.com\/artist\/4g0d1qT8tKu3VcjBHr3FQ2"
     },
     {
@@ -182,7 +177,6 @@
             "christian alternative rock",
             "christian folk",
             "gospel r&b",
-            "pop worship",
             "christian pop",
             "christian"
         ],
@@ -223,7 +217,6 @@
             "gospel",
             "christian pop",
             "christian hip hop",
-            "pop worship",
             "worship"
         ],
         "FamousLevel":59,
@@ -246,7 +239,7 @@
             "african gospel",
             "gospel"
         ],
-        "FamousLevel":51,
+        "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/6008gjU9UTUCfLZoSun5SH"
     },
     {
@@ -262,7 +255,6 @@
         "Genre":[
             "gospel r&b",
             "christian pop",
-            "pop worship",
             "christian",
             "worship",
             "gospel"
@@ -276,18 +268,16 @@
             "gospel r&b",
             "christian alternative rock",
             "christian pop",
-            "pop worship",
             "christian"
         ],
-        "FamousLevel":42,
+        "FamousLevel":41,
         "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
     },
     {
         "Artistname":"Eris Ford",
         "Genre":[
             "gospel r&b",
-            "christian pop",
-            "pop worship"
+            "christian pop"
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1zZDuiPTuQzsbXPj4N58G4"
@@ -298,7 +288,7 @@
             "worship",
             "gospel r&b"
         ],
-        "FamousLevel":45,
+        "FamousLevel":44,
         "Link":"https:\/\/open.spotify.com\/artist\/4hryzFSB8IYFIaBba9jUvT"
     },
     {
@@ -327,7 +317,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
     },
     {
@@ -335,7 +325,6 @@
         "Genre":[
             "christian alternative rock",
             "christian pop",
-            "pop worship",
             "cedm",
             "christian",
             "christian folk"
@@ -359,7 +348,6 @@
         "Artistname":"Forrest Frank",
         "Genre":[
             "christian hip hop",
-            "pop worship",
             "christian pop",
             "christian",
             "worship",
@@ -387,7 +375,7 @@
             "gospel",
             "gospel r&b"
         ],
-        "FamousLevel":43,
+        "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/3D0PnJS2WA0lgjLgMz0Oqq"
     },
     {
@@ -397,7 +385,7 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":45,
+        "FamousLevel":44,
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
     },
     {
@@ -430,7 +418,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":41,
+        "FamousLevel":40,
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
     },
     {
@@ -449,7 +437,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
@@ -505,7 +493,6 @@
         "Genre":[
             "worship",
             "christian",
-            "pop worship",
             "christian pop"
         ],
         "FamousLevel":60,
@@ -565,7 +552,8 @@
             "gospel r&b",
             "gospel",
             "african gospel",
-            "worship"
+            "worship",
+            "christian hip hop"
         ],
         "FamousLevel":51,
         "Link":"https:\/\/open.spotify.com\/artist\/1pQ5oAMGcFhkkuLqGJQUCd"
@@ -584,8 +572,8 @@
             "gospel r&b",
             "gospel",
             "christian pop",
-            "african gospel",
-            "christian"
+            "christian",
+            "african gospel"
         ],
         "FamousLevel":38,
         "Link":"https:\/\/open.spotify.com\/artist\/60CbU4u8dlhoHzRCNhTA1S"
@@ -621,10 +609,9 @@
             "afrobeat",
             "christian pop",
             "christian",
-            "afrobeats",
-            "pop worship"
+            "afrobeats"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/0liXA3xwx6pncxYQA30ahT"
     },
     {
@@ -632,16 +619,17 @@
         "Genre":[
             "Unknown Genre"
         ],
-        "FamousLevel":81,
+        "FamousLevel":82,
         "Link":"https:\/\/open.spotify.com\/artist\/7gW0r5CkdEUMm42w9XpyZO"
     },
     {
         "Artistname":"Benjamin William Hastings",
         "Genre":[
             "worship",
-            "christian"
+            "christian",
+            "pop worship"
         ],
-        "FamousLevel":62,
+        "FamousLevel":61,
         "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
     },
     {
@@ -700,5 +688,170 @@
         ],
         "FamousLevel":92,
         "Link":"https:\/\/open.spotify.com\/artist\/00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+        "Artistname":"Lawrence Oyor",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":62,
+        "Link":"https:\/\/open.spotify.com\/artist\/5VjrwmzHaE5YI54qdzIoiI"
+    },
+    {
+        "Artistname":"John Mark Pantana",
+        "Genre":[
+            "christian folk",
+            "christian alternative rock",
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":54,
+        "Link":"https:\/\/open.spotify.com\/artist\/6cbdCv0bmLwcxSVFM7tuyG"
+    },
+    {
+        "Artistname":"Mykel.",
+        "Genre":[
+            "gospel r&b",
+            "christian hip hop"
+        ],
+        "FamousLevel":29,
+        "Link":"https:\/\/open.spotify.com\/artist\/49BzIoHSHHxHP1iDe204Mg"
+    },
+    {
+        "Artistname":"ALIA LARA",
+        "Genre":[
+            "gospel r&b",
+            "christian",
+            "gospel",
+            "christian pop"
+        ],
+        "FamousLevel":48,
+        "Link":"https:\/\/open.spotify.com\/artist\/7LZtbcOzfx11Fhapw8iiOO"
+    },
+    {
+        "Artistname":"Sound Of Salem",
+        "Genre":[
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":57,
+        "Link":"https:\/\/open.spotify.com\/artist\/4wXOaCc4CN80m9xcjkmL6I"
+    },
+    {
+        "Artistname":"Victoria Orenze",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":52,
+        "Link":"https:\/\/open.spotify.com\/artist\/4NS4onS3tvVfCJk2sJ7vso"
+    },
+    {
+        "Artistname":"Gaise Baba",
+        "Genre":[
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":57,
+        "Link":"https:\/\/open.spotify.com\/artist\/5pFY8yo0PDefGs7laYnNwo"
+    },
+    {
+        "Artistname":"Adele",
+        "Genre":[
+            "soft pop"
+        ],
+        "FamousLevel":86,
+        "Link":"https:\/\/open.spotify.com\/artist\/4dpARuHxo51G3z768sgnrY"
+    },
+    {
+        "Artistname":"TBabz",
+        "Genre":[
+            "gospel r&b",
+            "african gospel",
+            "gospel",
+            "afrobeat",
+            "afrobeats"
+        ],
+        "FamousLevel":40,
+        "Link":"https:\/\/open.spotify.com\/artist\/2EmUjaYdA6kGxwZXzAGq7V"
+    },
+    {
+        "Artistname":"Grace Tena",
+        "Genre":[
+            "gospel r&b",
+            "gospel"
+        ],
+        "FamousLevel":35,
+        "Link":"https:\/\/open.spotify.com\/artist\/1W2fPbaUIDHflSKOe4S8QT"
+    },
+    {
+        "Artistname":"Siisi Baidoo",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":32,
+        "Link":"https:\/\/open.spotify.com\/artist\/1x9IbDcuMszbQzU8tposjZ"
+    },
+    {
+        "Artistname":"Stray Kids",
+        "Genre":[
+            "k-pop",
+            "noise music"
+        ],
+        "FamousLevel":86,
+        "Link":"https:\/\/open.spotify.com\/artist\/2dIgFjalVxs4ThymZ67YCE"
+    },
+    {
+        "Artistname":"Jenna Raine",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":59,
+        "Link":"https:\/\/open.spotify.com\/artist\/3aHe9rMa5HFTjXHw8tEz0A"
+    },
+    {
+        "Artistname":"Kevin Olusola",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":48,
+        "Link":"https:\/\/open.spotify.com\/artist\/4RPUSziPHrjcBUEfIUcb2I"
+    },
+    {
+        "Artistname":"Benson Boone",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":88,
+        "Link":"https:\/\/open.spotify.com\/artist\/22wbnEMDvgVIAGdFeek6ET"
+    },
+    {
+        "Artistname":"Alex Warren",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":88,
+        "Link":"https:\/\/open.spotify.com\/artist\/0fTSzq9jAh4c36UVb4V7CB"
+    },
+    {
+        "Artistname":"gavn!",
+        "Genre":[
+            "christian folk"
+        ],
+        "FamousLevel":62,
+        "Link":"https:\/\/open.spotify.com\/artist\/2pQzh5cuuqpDErGZNaOULd"
+    },
+    {
+        "Artistname":"Mark Ambor",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":72,
+        "Link":"https:\/\/open.spotify.com\/artist\/11p2E654TTU8e0nZWBR4AL"
     }
 ]

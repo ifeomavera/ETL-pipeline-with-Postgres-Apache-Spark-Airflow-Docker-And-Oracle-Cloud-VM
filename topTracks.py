@@ -62,7 +62,7 @@ track_df.to_json("all_top_tracks.json", orient="records", indent=4)
 # Database connection parameters
 username = os.getenv('POSTGRES_NAME') 
 password = os.getenv('POSTGRES_PASSWORD')
-host = os.getenv('POSTGRES_PASSWORD') 
+host = os.getenv('POSTGRES_HOST') 
 port = os.getenv('POSTGRES_PORT')  
 database_name = os.getenv('POSTGRES_DB') 
 
